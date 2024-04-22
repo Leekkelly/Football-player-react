@@ -1,0 +1,37 @@
+.page {
+    text-align: center;   
+}
+  
+form {
+    margin-bottom: 20px;
+}
+  
+input[type="text"] {
+    padding: 8px;
+    font-size: 16px;
+}
+  
+button {
+    padding: 8px 20px;
+    font-size: 16px;
+    background-color: #0ea14c;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+  
+button:hover {
+    background-color: #0a8663;
+}
+
+.player-details {
+    margin-top: 20px;
+    text-align: center;
+}
+  
+.player-image {
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    margin-top: 20px;
+}
