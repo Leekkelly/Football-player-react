@@ -1,3 +1,7 @@
+This is a simple React app following my last JavaScript project; now I'm implementing it in React instead.
+
+<img width="1728" alt="Screen Shot 2024-04-22 at 6 23 12 pm" src="https://github.com/Leekkelly/Football-player-react/assets/79069234/eb989e6a-4e29-4cbe-a372-4b3bcb9d4af1">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
